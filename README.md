@@ -1,4 +1,10 @@
-## Hi there 👋
+# Aubrey Cook
+## Multi-disciplinary Software and Systems Engineer
+
+[aubreyjcook.com](http://www.aubreyjcook.com/)
+
+## About Me
+
 
 <!--
 **aubreyjcook/aubreyjcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
