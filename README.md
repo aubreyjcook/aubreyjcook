@@ -1,6 +1,6 @@
 # Aubrey Cook
 
-## Multi-disciplinary Software and Systems Programmer
+## Website & Webapp Developer, Programmer
 
 [aubreyjcook.com](http://www.aubreyjcook.com/)
 
