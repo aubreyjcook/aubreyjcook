@@ -1,7 +1,5 @@
 # Aubrey Cook
 
-## Programmer
-
 **Software Engineer**
 
 This is my personal GitHub account, where I keep most of my personal projects, experiments, and things I've built while exploring new ideas and technologies.
